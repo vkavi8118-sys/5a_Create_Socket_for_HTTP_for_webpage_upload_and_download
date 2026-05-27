@@ -78,6 +78,8 @@ while True:
 
     c.close()
 ## OUTPUT
+<img width="1920" height="1080" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/b7da04f3-fbcf-4de3-b0e8-5673bb93efc4" />
+<img width="442" height="548" alt="Screenshot 2026-05-27 093319" src="https://github.com/user-attachments/assets/2c178ad8-12cc-4eea-9fcf-6df549845b03" />
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
